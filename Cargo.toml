@@ -1,0 +1,13 @@
+[package]
+name = "encrusted"
+version = "0.1.0"
+edition = "2021"
+readme = "README.md"
+license = "MIT"
+license-file = "LICENSE.md"
+
+[badge]
+experimental = { status = "WIP"}
+
+[dependencies]
+clap = "4.5.4"
