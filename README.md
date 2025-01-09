@@ -4,5 +4,5 @@
 [![licence badge](https://img.shields.io/badge/license-MIT-orange)](https://github.com/meed223/encrusted/blob/master/LICENSE.txt)
 
 
-A CLI tool for applying colour managing colour themes across tools & applications.  
+A CLI tool for applying colour managing colour themes across tools, applications and themes.  
 Works by writing directly to configuration files.

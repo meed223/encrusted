@@ -12,4 +12,5 @@ license-file = "LICENSE.md"
 experimental = { status = "WIP"}
 
 [dependencies]
-clap = { version = "4.5.4", features = ["derive"]}
+clap = { version = "4.5.4", features = ["derive"] }
+hex_color = { version = "3.0.0" }
